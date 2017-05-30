@@ -5,6 +5,7 @@
 *.unityproj
 *.user
 *.userprefs
+*~
 .DS_Store
 .DS_Store?
 .Spotlight-V100
