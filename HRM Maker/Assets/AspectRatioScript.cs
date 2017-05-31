@@ -22,6 +22,7 @@ public class AspectRatioScript : MonoBehaviour {
 	void Update () {
 		RectTransform prt = (RectTransform)parent.GetComponent(typeof(RectTransform));
 		Vector2 nowScale = prt.rect.size;
+		//Debug.Log("parent rect: "+prt.rect.ToString());
 		if((oldScale!=nowScale)||(oldIsOuter!=isOuter)||(oldParent!=parent)||(oldRatio!=ratio)){
 			float w0 = nowScale.y*ratio;
 			float h0 = nowScale.x/ratio;
