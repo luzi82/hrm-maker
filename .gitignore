@@ -11,8 +11,8 @@
 .Spotlight-V100
 .Trashes
 ._*
-/*.csproj
-/*.sln
+client/*.csproj
+client/*.sln
 ExportedObj/
 Library/
 Temp/
