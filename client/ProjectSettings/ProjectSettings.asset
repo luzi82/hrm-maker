@@ -137,6 +137,7 @@ PlayerSettings:
   protectGraphicsMemory: 0
   useHDRDisplay: 0
   applicationIdentifier:
+    Android: com.luzi82.hrmmaker
     iOS: com.luzi82.hrmmaker
   buildNumber: {}
   AndroidBundleVersionCode: 1
