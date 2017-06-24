@@ -11,11 +11,12 @@
 .Spotlight-V100
 .Trashes
 ._*
-client/*.csproj
-client/*.sln
+/client/*.csproj
+/client/*.sln
 ExportedObj/
 Library/
 Temp/
 Thumbs.db
 ehthumbs.db
 obj/
+/client/ios
